@@ -6,7 +6,7 @@
 - **Email:** balajielumalai6369@gmail.com
 - **GitHub:** https://github.com/balaji11916
 - **Selected problem:** Problem 3 — Durable Reminders and Follow-Ups
-- **Demo video:** Pending recording and accessible link. See [DEMO.md](DEMO.md) for the 3–5 minute script.
+- **Demo video:**- **Demo video:** [Recorded demonstration](https://drive.google.com/file/d/1mGgIkdXdFewDyayQIgXBEz8lQQY89vgk/view?usp=sharing)
 
 **Submission status:** Implementation, automated tests, benchmark, and demo script are prepared. The demo video and candidate-verified credibility note are still required before final submission. This document does not claim either has been completed.
 
